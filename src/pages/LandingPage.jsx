@@ -1,7 +1,7 @@
 import React from "react";
 
 const LandingPage = () => {
-  return <div>landing page</div>;
+  return <div>Your favorite URL shortner</div>;
 };
 
 export default LandingPage;
